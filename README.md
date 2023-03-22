@@ -1,4 +1,6 @@
-# app_test
+# flutter_now
+
+현재 날짜와 현재 시간을 나타내는 flutter 앱입니다
 
 A new Flutter project.
 
